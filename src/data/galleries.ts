@@ -26,9 +26,9 @@ export interface GalleryPhoto {
 
 export const digital: GalleryPhoto[] = [
   { year: 2020, month: 2, location: "Fairfax, VA, USA -- Backstroke Race (JMHS Swim)", file: "IMG_0958.JPG" },
-  { year: 2022, month: 10, location: "Williamstown, MA, USA -- Passing (Williams Water Polo)", file: "IMG_6999.jpg" },
+  { year: 2022, month: 10, location: "Williamstown, MA, USA -- Passing Practice (Williams Water Polo)", file: "IMG_6999.jpg" },
   { year: 2024, month: 4, location: "Williamstown, MA, USA -- Ballet Solo (Williams CoDa)", file: "IMG_5579.JPG" },
-  { year: 2025, month: 3, location: "London, United Kingdom -- National Routine (Oxford University Pole Sports)", file: "IMG_6343.jpg" },
+  { year: 2025, month: 3, location: "London, United Kingdom -- Nationals Routine (Oxford University Pole Sports)", file: "IMG_6343.jpg" },
   // The rest have no caption yet — they simply show on their own until you add a location.
   { year: 2026, month: 3, location: "Williamstown, MA, USA -- 105B Dive (Williams Swim & Dive)", file: "IMG_6222.jpg" },
   { year: 2026, month: 5, location: "Williamstown, MA, USA -- Grad Photoshoot", file: "DSC06471.jpg" },
