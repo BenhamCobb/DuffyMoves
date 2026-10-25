@@ -25,15 +25,15 @@ export interface GalleryPhoto {
 }
 
 export const digital: GalleryPhoto[] = [
-  { year: 2020, month: 2, location: "Fairfax, VA", file: "IMG_0958.JPG" },
+  { year: 2020, month: 2, location: "Fairfax, VA, USA -- 100-Yard Backstroke Race (JMHS Swim)", file: "IMG_0958.JPG" },
   { year: 2024, month: 9, location: "Coastal cliffs", file: "digital-02.jpg" },
   { year: 2024, month: 7, location: "Old harbor", file: "digital-03.jpg" },
   { year: 2024, month: 6, location: "Pine forest", file: "digital-04.jpg" },
   // The rest have no caption yet — they simply show on their own until you add a location.
-  { year: 0, month: 0, location: "", file: "digital-05.jpg" },
-  { year: 0, month: 0, location: "", file: "digital-06.jpg" },
-  { year: 0, month: 0, location: "", file: "digital-07.jpg" },
-  { year: 0, month: 0, location: "", file: "digital-08.jpg" },
+  { year: 2026, month: 3, location: "Williamstown, MA, USA -- 105B Element in Practice (Williams Dive)", file: "IMG_6222.jpg" },
+  { year: 2026, month: 5, location: "Williamstown, MA, USA -- Bollywood Showcase Performance (Williams StuCo)", file: "IMG_5837.JPG" },
+  { year: 2026, month: 8, location: "Bucheon, South Korea -- Pole Art Routine in Competition (JPoleDance)", file: "IMG_1369.jpg" },
+  { year: 2026, month: 10, location: "Los Angeles, CA, USA -- UCLA Ironbruin Sprint (UCI Triathlon)", file: "Cal Tri (2) (2).jpg" },
 ];
 
 export const analog: GalleryPhoto[] = [
