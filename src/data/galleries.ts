@@ -25,7 +25,7 @@ export interface GalleryPhoto {
 }
 
 export const digital: GalleryPhoto[] = [
-  { year: 2024, month: 9, location: "Mountain ridge", file: "digital-01.jpg" },
+  { year: 2020, month: 2, location: "Fairfax, VA", file: "IMG_0958.JPG" },
   { year: 2024, month: 9, location: "Coastal cliffs", file: "digital-02.jpg" },
   { year: 2024, month: 7, location: "Old harbor", file: "digital-03.jpg" },
   { year: 2024, month: 6, location: "Pine forest", file: "digital-04.jpg" },
