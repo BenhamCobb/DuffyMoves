@@ -10,12 +10,12 @@ export interface NavItem {
 }
 
 export const site = {
-  name: 'Your Name',
+  name: 'Benham Cobb',
   // Optional second-script name (e.g. a Chinese 中文名) shown under the brand and
   // in a couple of prose pages. Leave it '' to hide it everywhere. See the README
   // for how to self-host a font subset so it renders identically on every device.
   nameZh: '',
-  title: 'Your Name',
+  title: 'Benham Cobb',
   description:
     'A minimal photography portfolio and blog — digital and film galleries, a photo-a-month calendar, and two blogs.',
 };
